@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 How to reach me: [martin7teen@gmail.com] (mailto:martin7teen@gmail.com)
+📫 How to reach me: [martin7teen@gmail.com](mailto:martin7teen@gmail.com)
 
 ⚡ I’m interested in learning new tech stacks
 
