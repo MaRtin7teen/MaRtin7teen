@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me: [martin7teen@gmail.com](mailto:martin7teen@gmail.com)
 
-⚡ I’m interested in learning new tech stacks
+⚡ I’m interested in exploring new tech stacks
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MaRtin7teen&count_private=true&theme=tokyonight&showicons=true)]()
 
