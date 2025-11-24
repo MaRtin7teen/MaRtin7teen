@@ -40,3 +40,5 @@ A fully engineered, real-time paper trading application, that simulates real-tim
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=MaRtin7teen&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaRtin7teen&layout=compact&theme=radical)
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaRtin7teen&theme=highcontrast&border=white" height="150" /> <img src="https://github-readme-stats.vercel.app/api?username=MaRtin7teen&show_icons=true&theme=tokyonight&hide_border=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaRtin7teen&layout=compact&theme=tokyonight&hide_border=true" height="150" /> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&no-bg=true&no-frame=true" /> </div>
