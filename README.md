@@ -1,10 +1,10 @@
-## &nbsp; Hi 👋, I'm Martin Wilson
-### &nbsp;&nbsp;🚀 Frontend Engineer | React js • Next.js • TypeScript • Redux • Typescript 
+## Hi 👋, I'm Martin Wilson
+### 🚀 Frontend Engineer | React js • Next.js • TypeScript • Redux • Typescript 
 
 I build fast, scalable, and reliable web experiences using React, Next.js, TypeScript, and modern UI systems.
 3.5+ years crafting production-grade UIs, migrating legacy apps, optimizing performance, and shipping features at scale.
 
-### &nbsp;⚡️Tech Stack
+### ⚡️Tech Stack
 
 <b>Frontend</b>: React · Next.js · TypeScript · Redux · Zustand · Recoil · Astro <br/>
 <b>Styling</b>: Tailwind · Shadcn · Radix · Headless UI · MUI · Styled Components<br/>
@@ -12,9 +12,9 @@ I build fast, scalable, and reliable web experiences using React, Next.js, TypeS
 <b>Tools</b>: Git · Docker · Jenkins · Supabase · NGINX · Figma · Jira <br/>
 <b>Concepts</b>: SSR/SSG · Performance Tuning · Component Architecture · Accessibility · API Caching
 
-### &nbsp;&nbsp;🧩Experience
+### 🧩Experience
 
-#### &nbsp;&nbsp; SDE 1 — upGrad
+#### SDE 1 — upGrad
 
 - Delivered mission-critical product features that lifted engagement, retention, and platform consistency.
 - Engineered enterprise-grade component systems using React, Zustand, Tailwind, Shadcn, and Radix to accelerate dev velocity.
@@ -23,8 +23,8 @@ I build fast, scalable, and reliable web experiences using React, Next.js, TypeS
 - Integrated LinkedIn, Facebook APIs, Mixpanel, MoEngage for analytics & personalization.
 - Migrated legacy PHP → Next.js, boosting Core Web Vitals & SEO.
 
-### &nbsp; 📈 Featured Project <br />
-### &nbsp;&nbsp; SimpliTrade
+### 📈 Featured Project <br />
+### SimpliTrade
 
 Next.js · Supabase · WebSockets · Tailwind · TypeScript · Zustand · AngelOne SmartApi<br/>
 
