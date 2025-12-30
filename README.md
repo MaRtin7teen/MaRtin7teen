@@ -35,5 +35,3 @@ A fully engineered, real-time paper trading application, that simulates real-tim
 🔗 [LinkedIn](https://linkedin.com/in/martin7teen) <br/>
 🌐 [Portfolio](https://martins-portfolio.pages.dev) <br />
 📧 [martin7teen@gmail.com](mailto:martin7teen@gmail.com)
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MaRtin7teen&langs_count=5&theme=tokyonight)]()
