@@ -33,7 +33,5 @@ A fully engineered, real-time paper trading application, that simulates real-tim
 
 
 🔗 [LinkedIn](https://linkedin.com/in/martin7teen) <br/>
-🔗 <a href="https://linkedin.com/in/martin7teen" target="_blank" rel="noopener noreferrer">LinkedIn</a><br /> <br/>
 🌐 [Portfolio](https://martins-portfolio.pages.dev) <br />
-🌐 <a href="https://martins-portfolio.pages.dev" target="_blank" rel="noopener noreferrer">Portfolio</a><br />
 📧 [martin7teen@gmail.com](mailto:martin7teen@gmail.com)
