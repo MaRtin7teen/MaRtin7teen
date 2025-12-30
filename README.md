@@ -1,12 +1,12 @@
 ## Hi 👋, I'm Martin Wilson
-### 🚀 Frontend Engineer | React js • Next.js • TypeScript • Redux • Typescript 
+### 🚀 Frontend Engineer | React js • Next.js • TypeScript • Redux • Node js
 
-I build fast, scalable, and reliable web experiences using React, Next.js, TypeScript, and modern UI systems.
+I build fast, scalable, and reliable web experiences using React, Next.js, Redux, Zustand, TypeScript, and modern UI systems.
 3.5+ years crafting production-grade UIs, migrating legacy apps, optimizing performance, and shipping features at scale.
 
 ### ⚡️Tech Stack
 
-<b>Frontend</b>: React · Next.js · TypeScript · Redux · Zustand · Recoil · Astro <br/>
+<b>Frontend</b>: React js · Next.js · TypeScript · Redux · Zustand · Recoil js · Astro <br/>
 <b>Styling</b>: Tailwind · Shadcn · Radix · Headless UI · MUI · Styled Components<br/>
 <b>API</b>: GraphQL · REST · WebSockets<br/>
 <b>Tools</b>: Git · Docker · Jenkins · Supabase · NGINX · Figma · Jira <br/>
